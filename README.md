@@ -2,71 +2,52 @@
 
 ## "Stake Your Seat, Find Your Beat,Where NFTs Elevate Live Music Experiences!"
 
+## Problem Statement:
+
+In the current landscape of traditional concert ticketing, there exist several pain points that hinder the optimal experience for both artists and fans.
+
+## Current Challenges in Concert Ticketing:
+
+## 1.Generic Tickets, Lost Ownership:
+Traditional tickets lack personalization, depriving fans of true ownership and diminishing sentimental value.
+
+## 2.Scalping and Fraudulent Practices:
+The secondary market is plagued by scalping and fraud, leading to inflated prices for fans and loss of control over ticket values for artists.
+
+## 3.Opaque Ticket Distribution:
+The process of ticket distribution and seat allocation is often unclear, causing dissatisfaction as fans may end up with undesirable positions.
+
+## 4.Limited Seat Selection Options:
+Fans face restrictions in selecting preferred seats, limiting their ability to curate a personalized concert experience.
+
+## 5.Security Vulnerabilities:
+Traditional ticketing systems are vulnerable to counterfeiting and hacking, posing security threats for both organizers and attendees.
+
+## Our Solution: 
+StakeURticket addresses these challenges by introducing a revolutionary NFT-based ticketing system. Through blockchain technology, we aim to provide true ownership, transparency, and personalization to concert-goers, while empowering artists with control over their ticketing ecosystem. Our solution ensures a secure, efficient, and engaging experience for all stakeholders in the live music industry.
 
 
+## Features Provided:
+Smart Contract Logic:
+Implement transparent logic for staking, seat selection, and management.
 
-In the project directory, you can run:
+Wallet Integration:
+Enable secure management of NFT tickets within digital wallets.
 
-### `npm start`
+Security & Transparency:
+Utilize blockchain for enhanced security and ticket ownership transparency.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Blockchain NFT Tickets:
+Create unique, secure NFTs using blockchain technology.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Wallet Integration:
+Enable secure management of NFT tickets within digital wallets.
 
-### `npm test`
+## Tech Stacks
+React Js
+Cairo 
+Tailwind CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# StakeURTicket
+### Installation
+npm i
+npm start

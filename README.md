@@ -4,8 +4,7 @@
 
 ## Problem Statement:
 
-In the current landscape of traditional concert ticketing, there exist several pain points that hinder the optimal experience for both artists and fans.
-
+In the current landscape of traditional concert ticketing, there exist several Challenges
 ## Current Challenges in Concert Ticketing:
 
 1. **Generic Tickets, Lost Ownership:**

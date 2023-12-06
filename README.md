@@ -1,6 +1,6 @@
 # StakeURticket - Gryffindors Green
 
-"Stake Your Seat, Find Your Beat, Where NFTs Elevate Live Music Experiences!"
+**"Stake Your Seat, Find Your Beat, Where NFTs Elevate Live Music Experiences!"**
 
 ## Problem Statement:
 

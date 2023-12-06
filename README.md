@@ -4,7 +4,7 @@
 
 ## Problem Statement:
 Traditional concert ticketing faces significant challenges, including generic experiences, inflated prices due to scalping and fraud, opaque ticket distribution, inefficient seat selection, and persistent security concerns. These issues undermine the optimal experience for both artists and fans, highlighting the need for a transformative solution.There exist several Challenges
-## Current Challenges in Concert Ticketing:
+## Challenges in Concert Ticketing:
 
 1. **Generic Tickets, Lost Ownership:**
    - Traditional tickets lack personalization, depriving fans of true ownership and diminishing sentimental value.

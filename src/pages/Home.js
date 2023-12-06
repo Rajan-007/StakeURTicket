@@ -19,7 +19,7 @@ const Home = () => {
               <h2 className='font-bold text-6xl text-center pt-2 text-white w-full flex-1'>Ticket Booking Platform</h2>
           
               <h4 className='text-white text-center mt-8 font-semibold text-4xl'>
-              Stake Your Seat, Find Your Beat !!!              </h4>
+              Stake Your Seat, Find Your Beat !!!              </h4>          
           </div>
         <div className='md:flex md:justify-center'>
             <img className='h-80 pl-5' src={main} alt="main" />

@@ -9,9 +9,11 @@ import {
 } from "@argent/get-starknet";
 import Link from "react";
 import { WalletDetails } from "../Config/WalletDetails";
+import { useDispatch } from 'react-redux';
+import { setConn } from "../store/connectionActions";
 
 function NavLink({to, children}) {
-    return <a href={to} className={`mx-4`}>
+    return <a href={to} className={`mx-4 hover:underline font-bold hover:text-gray-900`}>
         {children}
     </a>
 }
@@ -20,6 +22,7 @@ function MobileNav({open, setOpen}) {
     const WW_URL = "https://web.argent.xyz";
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
     const [connection, setConnection] = useState();
+    const dispatch = useDispatch();
 
     useEffect(() => {
         const connectToStarknet = async () => {
@@ -30,6 +33,8 @@ function MobileNav({open, setOpen}) {
     
           if (connection && connection.isConnected) {
             setConnection(connection);
+            dispatch(setConn(connection));
+
           }
         };
         connectToStarknet();
@@ -40,7 +45,7 @@ function MobileNav({open, setOpen}) {
                 <a className="text-xl font-bold" href="/">StakeUrTicket</a>
             </div>
             <div className="flex flex-col ml-4 text-white">
-                <a className="text-xl my-4 font-bold" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <a className="text-xl my-4 font-bold hover:underline" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                     Home
                 </a>
                 <a className="text-xl font-bold my-4" href="/about" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
@@ -91,8 +96,8 @@ export default function Navbar() {
                     <span className={`h-1 w-full bg-black rounded-lg transition-all duration-300 ease-in-out ${open ? "w-0" : "w-full"}`} />
                     <span className={`h-1 w-full bg-black rounded-lg transform transition duration-300 ease-in-out ${open ? "-rotate-45 -translate-y-3.5" : ""}`} />
                 </div>
-                <div className="hidden text-lg font-bold md:flex">
-                    <NavLink to="/" className=''>
+                <div className="hidden text-lg font-bold md:flex ">
+                    <NavLink to="/" className='hover:underline'>
                         HOME
                     </NavLink>
                     <NavLink to="/about">

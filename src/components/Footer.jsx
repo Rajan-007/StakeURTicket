@@ -12,7 +12,7 @@ const Footer = () => {
             <a className='block' href='/Collections'>Collections</a>
           </div>
         </div>
-        <h1 className='md:flex md:justify-center flex justify-end pr-5 pb-5 text-gray-800'>Copyright © 2023 StakeTicket</h1>
+        <h1 className='md:flex md:justify-center flex justify-end pr-5 pb-5 text-gray-800'>Copyright © 2023 Stake<span>UR</span>Ticket</h1>
       </div>
     </div>
   )

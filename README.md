@@ -48,6 +48,7 @@ StakeURticket addresses these challenges by introducing a revolutionary NFT-base
 ### Installation:
 
 -> npm i
+
 -> npm start
 
 ## Presentation Link:

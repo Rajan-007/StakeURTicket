@@ -3,8 +3,7 @@
 **"Stake Your Seat, Find Your Beat, Where NFTs Elevate Live Music Experiences!"**
 
 ## Problem Statement:
-
-In the current landscape of traditional concert ticketing, there exist several Challenges
+Traditional concert ticketing faces significant challenges, including generic experiences, inflated prices due to scalping and fraud, opaque ticket distribution, inefficient seat selection, and persistent security concerns. These issues undermine the optimal experience for both artists and fans, highlighting the need for a transformative solution.There exist several Challenges
 ## Current Challenges in Concert Ticketing:
 
 1. **Generic Tickets, Lost Ownership:**

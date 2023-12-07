@@ -11,6 +11,7 @@ const Cards = (props) => {
   const connection = useSelector((state) => state.connection);
   console.log("account",connection?.connection?.account)
   console.log("address",connection?.connection?.account?.address) 
+  
   const book = async () => {
     console.log(">> interactWithContract started");
     try {

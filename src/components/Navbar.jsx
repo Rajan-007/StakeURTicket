@@ -7,7 +7,6 @@ import {
   disconnect,
   ConnectedStarknetWindowObject,
 } from "@argent/get-starknet";
-import Link from "react";
 import { WalletDetails } from "../Config/WalletDetails";
 import { useDispatch } from 'react-redux';
 import { setConn } from "../store/connectionActions";

@@ -11,7 +11,6 @@ const Concerts = () => {
       <h1 className='text-center text-white underline text-xl py-10 md:text-4xl font-bold font-sans uppercase'>Collections</h1>
         <div className='flex flex-col py-5'>
           <Tickets  />
-          <Tickets  />
           
         </div>  
       </div>

@@ -50,5 +50,25 @@ StakeURticket addresses these challenges by introducing a revolutionary NFT-base
 
 -> npm start
 
+# Demo Pages
+
+![WhatsApp Image 2023-12-07 at 13 31 40_8d4d89db](https://github.com/Rajan-007/StakeURTicket/assets/103201642/eddbdd75-6ecf-4220-a9b8-dfdf21c0bd1c)
+
+![WhatsApp Image 2023-12-07 at 13 31 39_b7ce7d2b](https://github.com/Rajan-007/StakeURTicket/assets/103201642/4d8ad2ed-f21c-47da-9306-643d7e97983b)
+
+![WhatsApp Image 2023-12-07 at 13 31 39_3e12ba86](https://github.com/Rajan-007/StakeURTicket/assets/103201642/d1761d93-a0e3-41d5-b122-930e6fb096ea)
+
+![WhatsApp Image 2023-12-07 at 13 31 38_64ff7112](https://github.com/Rajan-007/StakeURTicket/assets/103201642/043c583b-6377-4286-8650-644e9b1ba31d)
+
+![WhatsApp Image 2023-12-07 at 13 40 19_bc4484da](https://github.com/Rajan-007/StakeURTicket/assets/103201642/0502904e-7127-461e-96dc-34257ef0cd81)
+
+
 ## Presentation Link:
 https://www.canva.com/design/DAF2HuwlB0o/Sg8Bv6Qd_A7iNsIGIRVZUA/edit?utm_content=DAF2HuwlB0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Demo Link:
+https://youtube.com/playlist?list=PLbwgX744qBUBhpSRuvN2gk1u3V3_e7oM8&si=SiNMdAiDNhcPpVlx
+
+
+
+

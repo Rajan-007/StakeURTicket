@@ -13,7 +13,7 @@ function App() {
   <Provider store={store}>
     <Router>
         <Routes>
-          <Route path="/" exact Component={Home} />
+          <Route path="/"  Component={Home} />
           <Route path="/about" Component={About} />
           <Route path="/Concerts" Component={Concerts} />
           <Route path="/Collections" Component={Collections} />

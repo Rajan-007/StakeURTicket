@@ -60,6 +60,9 @@ StakeURticket addresses these challenges by introducing a revolutionary NFT-base
 
 ![WhatsApp Image 2023-12-07 at 13 31 38_64ff7112](https://github.com/Rajan-007/StakeURTicket/assets/103201642/043c583b-6377-4286-8650-644e9b1ba31d)
 
+![WhatsApp Image 2023-12-07 at 13 40 19_bc4484da](https://github.com/Rajan-007/StakeURTicket/assets/103201642/0502904e-7127-461e-96dc-34257ef0cd81)
+
+
 ## Presentation Link:
 https://www.canva.com/design/DAF2HuwlB0o/Sg8Bv6Qd_A7iNsIGIRVZUA/edit?utm_content=DAF2HuwlB0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
